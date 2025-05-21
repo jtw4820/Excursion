@@ -15,6 +15,7 @@ header {
     margin: 0;
     color: aquamarine;
     text-decoration: underline;
+    font-size: 16px;
 }
 .video {
     display: flex;
@@ -27,7 +28,7 @@ article {
     align-items: center;
     margin: 0 10px;
 }
-article h1 {
+.article-head {
     font: 300 42px;
 }
 article p {
@@ -36,4 +37,7 @@ article p {
 }
 article img {
    margin-bottom: 20px;
+}
+footer {
+    text-align: right;
 }
