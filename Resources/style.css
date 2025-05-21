@@ -10,3 +10,14 @@ header {
     align-items: top;
     margin: 0;
 }
+.link-to-app {
+    text-align: center;
+    margin: 0;
+    color: aquamarine;
+    text-decoration: underline;
+}
+.video {
+    display: flex;
+    justify-content: center;
+    margin: 10px 0;
+}
